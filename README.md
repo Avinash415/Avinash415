@@ -1,56 +1,68 @@
-# Avinash Kumar
-
-🎓 **Education**  
-- **B.Tech in Computer Science & Engineering**  
-  Rungta College of Engineering & Technology, Bhilai (2022–2025) | CGPA: 7.43  
-- **Diploma in Computer Science & Engineering**  
-  Government Polytechnic Gulzarbagh, Patna (2019–2022) | CGPA: 8.45  
+<h2 align="left">Hi 👋! My name is Avinash Kumar and I'm a passionate software developer from Bhilai, Chhattisgarh, India</h2>
 
 ---
 
-💻 **Technical Skills**  
-- **Languages**: Java, Python, C, C++, JavaScript, SQL  
-- **Frameworks**: Node.js, React.js, Tailwind, Express.js  
-- **Platforms and Tools**: Git, MongoDB, MySQL, Unix/Linux, Windows  
-- **Core Strengths**: Data Structures & Algorithms, Problem Solving, ML, Distributed Systems, TCP/IP  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinash415&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Avinash415&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 ---
 
-🌟 **Experience**  
-**Full-stack Web Development Intern**  
-*Nexus Info (Remote)* | Dec 2023 – Mar 2024  
-- Backend development using Node.js, JavaScript, MongoDB, and Postman API  
-- Created responsive web applications with HTML5, CSS3, Bootstrap, and React.js  
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
+
+### 🚀 About Me:
+- 🔭 Currently working as a **Full-stack Web Development Intern** at Nexus Info.
+- 🌱 Studying **B.Tech. in Computer Science & Engineering** (CGPA: 7.43) at Rungta College of Engineering & Technology.
+- 👨‍💻 Skilled in **Java, Python, C++, JavaScript**, and frameworks like **Node.js, React.js, Tailwind, Express.js**.
+- 💡 Passionate about **Data Structures & Algorithms**, **Distributed Systems**, and **Machine Learning**.
+- 🏆 Solved **500+ DSA problems** on GeeksForGeeks and **100+ problems** on LeetCode.
 
 ---
 
-🔨 **Projects**  
-1. **Backend for Real Estate Web Application** (Apr 2024 – Jun 2024)  
-   - Developed backend functionality with Node.js and integrated APIs via Postman.  
-   - Managed MongoDB for scalable data storage and retrieval.  
-
-2. **AI-Text-Summarizer App** (Apr 2024 – May 2024)  
-   - Built a summarization app using NLP algorithms from Hugging Face.  
-   - Designed frontend with HTML, CSS, and JavaScript; backend with Node.js.  
-
-3. **Sudoku Solver Project** (Jan 2024)  
-   - Created an interactive Sudoku solver with HTML, CSS, JavaScript, and DSA algorithms.  
-
----
-
-🏆 **Achievements**  
-- Solved **500+ DSA problems** on GeeksForGeeks and **100+ on LeetCode**.  
-- AWS Certified.  
-- Organized college coding and hackathon events as a Lead/Volunteer.  
+### 🛠️ Tech Stack:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+</div>
 
 ---
 
-📌 **Links**  
-- **GitHub**: [Avinash415](https://github.com/Avinash415)  
-- **LinkedIn**: [Avinash Kumar](https://www.linkedin.com/in/avinash-kumar-b14a46193/)  
-- **LeetCode**: [Avinash843117kumar](https://leetcode.com/u/avinash843117kumar/)  
-- **GeeksForGeeks**: [Profile](https://www.geeksforgeeks.org/user/avinash843sy4w/)  
+### 🌟 Projects:
+1. **Backend for Real Estate Web Application**  
+   - Implemented backend functionality using **Node.js** and **MongoDB**.  
+   - Integrated Postman API for efficient communication and utilized Prisma for database management.  
 
-📞 **Contact**  
-Email: avinash843117kumar@gmail.com | Phone: 7970746912 | Location: Bhilai, Chhattisgarh, India  
+2. **AI-Text-Summarizer-App**  
+   - Developed a text summarization app using **NLP algorithms (Hugging Face)**.  
+   - Built with **HTML, CSS, JavaScript, Node.js**, and integrated Postman API.
 
+3. **Sudoku Solver Project**  
+   - Created a web-based Sudoku solver with **HTML, CSS, and JavaScript**.  
+   - Developed a user-friendly interface with robust DSA algorithms.
+
+---
+
+### 📫 Connect with Me:
+<div align="left">
+  <a href="mailto:avinash843117kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/avinash-kumar-b14a46193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://github.com/Avinash415"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/avinash843117kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="35" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/user/avinash843sy4w/"><img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?logo=geeksforgeeks&logoColor=white&style=for-the-badge" height="35" alt="GeeksForGeeks" /></a>
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Avinash415/Avinash415/output/snake.svg" alt="Snake animation" />

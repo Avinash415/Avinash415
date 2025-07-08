@@ -40,15 +40,20 @@
 ---
 
 ### 🌟 Projects:
-1. **Backend for Real Estate Web Application**  
+1. **GlobeGenie – AI-Powered Travel Planner**
+    - Tech Stack: React.js, Node.js, MongoDB, Tailwind CSS, Google Generative AI, OAuth
+    - Features: AI-generated travel itineraries, Google Places integration, secure login
+    - Contributions: Built responsive frontend, integrated AI & Google APIs, managed user authentication
+
+2. **Backend for Real Estate Web Application**  
    - Implemented backend functionality using **Node.js** and **MongoDB**.  
    - Integrated Postman API for efficient communication and utilized Prisma for database management.  
 
-2. **AI-Text-Summarizer-App**  
+3. **AI-Text-Summarizer-App**  
    - Developed a text summarization app using **NLP algorithms (Hugging Face)**.  
    - Built with **HTML, CSS, JavaScript, Node.js**, and integrated Postman API.
 
-3. **Sudoku Solver Project**  
+4. **Sudoku Solver Project**  
    - Created a web-based Sudoku solver with **HTML, CSS, and JavaScript**.  
    - Developed a user-friendly interface with robust DSA algorithms.
 

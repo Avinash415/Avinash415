@@ -13,7 +13,7 @@
 
 ### 🚀 About Me:
 - 🔭 Currently working as a **Full-stack Web Development Intern** at Nexus Info.
-- 🌱 Studying **B.Tech. in Computer Science & Engineering** (CGPA: 7.43) at Rungta College of Engineering & Technology.
+- 🌱 Studying **B.Tech. in Computer Science & Engineering** (CGPA: 8.0) at Rungta College of Engineering & Technology.
 - 👨‍💻 Skilled in **Java, Python, C++, JavaScript**, and frameworks like **Node.js, React.js, Tailwind, Express.js**.
 - 💡 Passionate about **Data Structures & Algorithms**, **Distributed Systems**, and **Machine Learning**.
 - 🏆 Solved **500+ DSA problems** on GeeksForGeeks and **100+ problems** on LeetCode.

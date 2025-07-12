@@ -11,8 +11,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 
-### 🚀 About Me:
-- 🔭 Currently working as a **Full-stack Web Development Intern** at Nexus Info.
+## 🚀 About Me:
+
 - 🌱 Studying **B.Tech. in Computer Science & Engineering** (CGPA: 8.0) at Rungta College of Engineering & Technology.
 - 👨‍💻 Skilled in **Java, Python, C++, JavaScript**, and frameworks like **Node.js, React.js, Tailwind, Express.js**.
 - 💡 Passionate about **Data Structures & Algorithms**, **Distributed Systems**, and **Machine Learning**.
@@ -20,7 +20,8 @@
 
 ---
 
-### 🛠️ Tech Stack:
+## 🛠️ Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
@@ -39,7 +40,8 @@
 
 ---
 
-### 🌟 Projects:
+## 🌟 Projects:
+
 1. **GlobeGenie – AI-Powered Travel Planner**
     - Tech Stack: React.js, Node.js, MongoDB, Tailwind CSS, Google Generative AI, OAuth
     - Features: AI-generated travel itineraries, Google Places integration, secure login
@@ -59,7 +61,7 @@
 
 ---
 
-### 📫 Connect with Me:
+## 📫 Connect with Me:
 <div align="left">
   <a href="mailto:avinash843117kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/avinash-kumar-b14a46193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /></a>

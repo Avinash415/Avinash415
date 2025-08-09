@@ -43,7 +43,7 @@
 ## 🌟 Projects:
 
 1. **GlobeGenie – AI-Powered Travel Planner**
-    - Tech Stack: React.js, Node.js, MongoDB, Tailwind CSS, Google Generative AI, OAuth
+    - Tech Stack: React.js, Node.js, MongoDB, Tailwind CSS, Google Generative AI, OAuth, HTML
     - Features: AI-generated travel itineraries, Google Places integration, secure login
     - Contributions: Built responsive frontend, integrated AI & Google APIs, managed user authentication
 

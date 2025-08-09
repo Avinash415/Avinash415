@@ -48,7 +48,7 @@
     - Contributions: Built responsive frontend, integrated AI & Google APIs, managed user authentication
 
 2. **Backend for Real Estate Web Application**  
-   - Implemented backend functionality using **Node.js** and **MongoDB**.  
+   - Implemented backend functionality using **Node.js** **Express Js** and **MongoDB**.  
    - Integrated Postman API for efficient communication and utilized Prisma for database management.  
 
 3. **AI-Text-Summarizer-App**  

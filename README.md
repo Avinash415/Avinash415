@@ -1,4 +1,4 @@
-<h2 align="left">Hii My name is Avinash Kumar and I'm a passionate software developer from Bhilai, Chhattisgarh, India</h2>
+<h2 align="left">Hii My name is Avinash Kumar and I'm a passionate software developer from Bhilai, Chhattisgarh(490001), India</h2>
 
 ---
 

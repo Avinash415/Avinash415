@@ -13,7 +13,7 @@
 
 ## 🚀 About Me:
 
-- 🌱 Studying **B.Tech in Computer Science & Engineering** (CGPA: 9.0) at Rungta College of Engineering and Technology.
+- 🌱 Studying **B.Tech in Computer Science & Engineering** (CGPA: 7.6) at Rungta College of Engineering and Technology.
 - 👨‍💻 Skilled in **Java, Python, C++, JavaScript**, and frameworks like **Node.js, React.js, Tailwind, Express.js**.
 - 💡 Passionate about **Data Structures and Algorithms**, **Distributed Systems**, and **Machine Learning**.
 - 🏆 Solved **500+ DSA problems** on GeeksForGeeks and **100+ problems** on LeetCode.

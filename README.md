@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🚀 About Me 
+## 🚀 About Me :-
 
 - 🎓 **B.Tech in Computer Science & Engineering** (CGPA: 7.6) at Rungta College of Engineering and Technology
 - 💻 Skilled in **JavaScript/TypeScript**, **Java**, **Python**, **C++** 
